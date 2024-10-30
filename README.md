@@ -1,13 +1,15 @@
 # app_tejidOtaku
-Esta pagina web es un trabajo de mi unidad academica y consistira en: Ayudar a las personas a comercializar sus productos de tejido con tematicas Otakus sin necesidad de tener una tienda fisica. Siendo o no una empresa y ser un vendedor independiente.
+Esta pagina web ayudara a las personas a comercializar sus productos de tejido con tematicas Otakus sin necesidad de tener una tienda fisica. Siendo o no una empresa y ser un vendedor independiente.
 
 ## SECTOR
-Marketplace
+Marketplace (ecomers)
 
 ## QUE PODRÁS HACER CON MI APP
 - iniciar sesion con tu cuenta Google 
-- iniciar sesion con tu correo electrónico 
-- 
+- registrarte con tu correo electrónico 
+- comprar productos tejidos a mano
+- solicitar envios
+- visualizar productos
 ## TECNOLOGÍAS
 - Reeflexs
 - Figma
