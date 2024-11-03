@@ -1,4 +1,4 @@
-# app_tejidOtaku
+# tejidOtaku.landing
 Esta pagina web ayudara a las personas a comercializar sus productos de tejido con tematicas Otakus sin necesidad de tener una tienda fisica. Siendo o no una empresa y ser un vendedor independiente.
 
 ## SECTOR
