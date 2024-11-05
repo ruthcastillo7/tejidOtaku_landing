@@ -34,4 +34,4 @@ Marketplace (ecomers)
 - Arquitectura mvc
 - arquitectura limpia
 ## METODOLOGÍA DE TRABAJO
-LEAN
+Scrum
