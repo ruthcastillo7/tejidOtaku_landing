@@ -11,6 +11,7 @@ def navbar()->rx.Component:
         rx.link("Iniciar sesion",href="/#",size="3",weight="bold"),
         justify="end",
         spacing="5"
+#        background="#f3e5ab",
       )),
       rx.button(
       rx.hstack(
