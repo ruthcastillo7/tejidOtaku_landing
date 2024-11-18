@@ -2,12 +2,12 @@ import reflex as rx
 
 from .componentes.navbar import navbar
 from .componentes.seccion import seccion
-from .componentes.cambiar_tema import cambiar_tema
+# from .componentes.cambiar_tema import cambiar_tema
 
 def index()->rx.Component:
   return rx.box(
     navbar(),
-    cambiar_tema(),
+    # cambiar_tema(),
     seccion(),
   )
 

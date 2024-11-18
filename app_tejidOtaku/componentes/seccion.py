@@ -13,26 +13,18 @@ def seccion()->rx.Component:
       ),
       rx.link(
           rx.button(rx.icon(tag="airplay"),"Registrate",),
-          href="https://forms.gle/PvYHtu3D2NfWUq3f6",
+          href="https://forms.gle/pGqoBuULbmb6TRqs9",
           is_external=False,
       ),
+      rx.link(
+          rx.button(rx.icon(tag="airplay"),"Iniciar sesion",),
+          href="https://forms.gle/vqYbrwcSbLUEPFTn9",
+          is_external=False,
+      ),      
+      
       align="center",
       text_align="center",
       height="676px",
       background="#f3e5ab",
       
     )
-  
-  
-  
-        # rx.vstack(
-        #   rx.heading(
-        #     rx.text.span("tejidOtaku",color=rx.color("blue",7)),
-        #     " la Aplicacion que te guia al tomarte fotos"
-        #   ),
-        #   rx.text("Mejora tus fotos con nuevas ideas",
-        #   rx.text.em(" creativas y",color=rx.color("cyan",9)),
-        #   rx.text.em(" novedosas,",color=rx.color("cyan",9)),
-        #   " se la envidia de los demas con ",
-        #   rx.text.quote("PIXIE.",color=rx.color("gold",9))),  
-        # ),
